@@ -10,7 +10,7 @@ sites:
   - name: NERD.net Main
     url: https://nerd.net
 
-customStatusWebsitePackage: frederickgeek8/upptime-status-page#last-updated
+# customStatusWebsitePackage: frederickgeek8/upptime-status-page#last-updated
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
