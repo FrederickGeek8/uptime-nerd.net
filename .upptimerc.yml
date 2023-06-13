@@ -6,7 +6,7 @@ sites:
   - name: NERD.net Social
     url: https://social.nerd.net
   - name: NERD.net File Hosting
-    url: https://files.nerd.net
+    url: https://files.nerd.net/anchor.jpg
   - name: NERD.net Main
     url: https://nerd.net
 
