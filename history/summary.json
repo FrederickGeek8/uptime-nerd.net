@@ -22,18 +22,19 @@
     "url": "https://files.nerd.net/anchor.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/files.nerd.net.ico",
     "slug": "nerd-net-file-hosting",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 296,
     "timeDay": 108,
     "timeWeek": 299,
     "timeMonth": 296,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2023-07-02": 1,
       "2023-06-13": 81
     }
   },
@@ -42,7 +43,7 @@
     "url": "https://nerd.net",
     "icon": "https://icons.duckduckgo.com/ip3/nerd.net.ico",
     "slug": "nerd-net-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +54,8 @@
     "timeWeek": 146,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   }
 ]
