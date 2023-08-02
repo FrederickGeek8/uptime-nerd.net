@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 276,
-    "timeDay": 211,
-    "timeWeek": 191,
-    "timeMonth": 265,
-    "timeYear": 276,
+    "time": 274,
+    "timeDay": 168,
+    "timeWeek": 165,
+    "timeMonth": 266,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2023-07-11": 42
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.nerd.net.ico",
     "slug": "nerd-net-file-hosting",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 276,
-    "timeDay": 107,
-    "timeWeek": 85,
-    "timeMonth": 256,
-    "timeYear": 276,
+    "uptimeYear": "99.89%",
+    "time": 274,
+    "timeDay": 135,
+    "timeWeek": 95,
+    "timeMonth": 257,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2023-06-13": 81
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 150,
-    "timeWeek": 139,
-    "timeMonth": 164,
+    "timeDay": 127,
+    "timeWeek": 121,
+    "timeMonth": 166,
     "timeYear": 158,
     "dailyMinutesDown": {}
   }
