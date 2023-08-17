@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.nerd.net.ico",
     "slug": "nerd-net-social",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 261,
-    "timeDay": 351,
-    "timeWeek": 226,
-    "timeMonth": 223,
+    "timeDay": 220,
+    "timeWeek": 227,
+    "timeMonth": 222,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2023-07-11": 42
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 242,
-    "timeDay": 111,
+    "time": 241,
+    "timeDay": 129,
     "timeWeek": 142,
-    "timeMonth": 136,
-    "timeYear": 242,
+    "timeMonth": 132,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2023-06-13": 81
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 265,
-    "timeWeek": 167,
-    "timeMonth": 148,
+    "timeDay": 173,
+    "timeWeek": 166,
+    "timeMonth": 151,
     "timeYear": 155,
     "dailyMinutesDown": {}
   }
