@@ -1,7 +1,7 @@
 url: https://files.nerd.net/anchor.jpg
-status: up
-code: 200
-responseTime: 111
-lastUpdated: 2023-08-27T23:12:36.927Z
+status: down
+code: 502
+responseTime: 151
+lastUpdated: 2023-08-28T16:29:30.110Z
 startTime: 2023-06-13T16:35:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
