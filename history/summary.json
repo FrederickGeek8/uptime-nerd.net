@@ -6,17 +6,16 @@
     "slug": "nerd-net-social",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 213,
-    "timeDay": 252,
-    "timeWeek": 265,
-    "timeMonth": 190,
+    "timeDay": 259,
+    "timeWeek": 268,
+    "timeMonth": 192,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-03-05": 10,
       "2023-08-29": 103,
       "2023-07-11": 42
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 136,
-    "timeDay": 115,
-    "timeWeek": 97,
-    "timeMonth": 92,
-    "timeYear": 136,
+    "time": 135,
+    "timeDay": 52,
+    "timeWeek": 90,
+    "timeMonth": 91,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2023-06-13": 81
     }
@@ -48,17 +47,16 @@
     "slug": "nerd-net-main",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 129,
     "timeDay": 171,
-    "timeWeek": 174,
-    "timeMonth": 117,
+    "timeWeek": 171,
+    "timeMonth": 118,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-03-05": 10,
       "2023-08-29": 103
     }
   }
