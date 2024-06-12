@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 220,
-    "timeDay": 92,
-    "timeWeek": 154,
-    "timeMonth": 191,
-    "timeYear": 220,
+    "time": 219,
+    "timeDay": 66,
+    "timeWeek": 144,
+    "timeMonth": 181,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2023-08-29": 103,
       "2023-07-11": 42
@@ -32,13 +32,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 123,
-    "timeDay": 107,
-    "timeWeek": 86,
-    "timeMonth": 90,
+    "timeDay": 119,
+    "timeWeek": 90,
+    "timeMonth": 92,
     "timeYear": 123,
-    "dailyMinutesDown": {
-      "2023-06-13": 81
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NERD.net Main",
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 125,
-    "timeDay": 83,
-    "timeWeek": 82,
-    "timeMonth": 116,
+    "timeDay": 88,
+    "timeWeek": 90,
+    "timeMonth": 111,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2023-08-29": 103
