@@ -4,7 +4,7 @@
     "url": "https://social.nerd.net",
     "icon": "https://icons.duckduckgo.com/ip3/social.nerd.net.ico",
     "slug": "nerd-net-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 192,
     "timeMonth": 197,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-04": 0
+    }
   },
   {
     "name": "NERD.net File Hosting",
