@@ -22,9 +22,9 @@
     "url": "https://files.nerd.net/anchor.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/files.nerd.net.ico",
     "slug": "nerd-net-file-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 130,
     "timeMonth": 107,
     "timeYear": 102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   },
   {
     "name": "NERD.net Main",
