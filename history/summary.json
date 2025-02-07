@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 81,
-    "timeWeek": 142,
-    "timeMonth": 220,
+    "timeDay": 77,
+    "timeWeek": 138,
+    "timeMonth": 218,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "nerd-net-file-hosting",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 128,
-    "timeWeek": 134,
+    "timeDay": 144,
+    "timeWeek": 132,
     "timeMonth": 109,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2025-02-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NERD.net Main",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 55,
-    "timeWeek": 76,
-    "timeMonth": 135,
+    "timeDay": 106,
+    "timeWeek": 84,
+    "timeMonth": 134,
     "timeYear": 126,
     "dailyMinutesDown": {}
   }
